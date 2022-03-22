@@ -12,3 +12,7 @@ Practica utilizando las herramientas mediante Proteus con el uso de Github Pages
     🖥 Manipulación Software
     
     🎇 Manipulacion de componentes fisicos
+
+### Pre-requisitos 📋
+
+Navegador
