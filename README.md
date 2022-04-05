@@ -2,6 +2,12 @@
 ## 🥇🥇🥇🤗🤗🤗  Bienvenid@ a nuestra Practica #3🤗🤗🤗🥇🥇🥇
 
 
+
+<p align="center">
+  <a href="#"><img src="https://i.pinimg.com/originals/b8/6a/0d/b86a0d7d4c9515bf4ad2610317744f77.gif" width="500px"/></a>
+</p>
+
+
 ## Comenzando 🚀
 
 Practica utilizando las herramientas mediante Proteus con el uso de Github Pages como despliegue de la practica.
